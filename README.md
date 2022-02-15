@@ -1,2 +1,2 @@
 # Python
-First project is to find password of Wi-Fi that is saved on your laptop/pc .
+First project is to get password of all Wi-Fi that are saved on your laptop/pc .
